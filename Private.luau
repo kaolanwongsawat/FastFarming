@@ -73,7 +73,7 @@ if not isWhitelisted(localPlayer) then
             "Swift Samurai", "Tribal Overlord", "Mighty Monster", "Wild Wizard",
             "Omega Overlord", "Titanium Hydra", "Powercore Hound",
             "Jungle Captain", "Flaming Hedgehog", "Electro Bunny",
-            "Common Boss Pet", "Rare Boss Pet", "Epic Boss Pet", "Legendary Boss Pet", "Mythic Boss Pet", "Rainbow Boss Pets",
+            "Common Boss Pet", "Rare Boss Pet", "Epic Boss Pet", "Legendary Boss Pet", "Mythic Boss Pet", "Rainbow Boss Pet",
             "Haunted Lantern", "Candy Cube", "Cursed Candle", "Jack o Block", "Bone Block", "Coffin Crawler",
             "Apex Overlord", "Shard Dragon", "Nova Pheonix"
         }
