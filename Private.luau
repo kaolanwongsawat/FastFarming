@@ -74,10 +74,8 @@ if not isWhitelisted(localPlayer) then
             "Omega Overlord", "Titanium Hydra", "Powercore Hound",
             "Jungle Captain", "Flaming Hedgehog", "Electro Bunny",
             "Common Boss Pet", "Rare Boss Pet", "Epic Boss Pet", "Legendary Boss Pet", "Mythic Boss Pet", "Rainbow Boss Pets",
-            "Pelican", "Divine Dragon", "Neon Divine Dragon", "Space Dragon",
-            "Red Alien", "Fire Alien", "Vortex", "Astrax",
-            "Rage Shark", "Titan Crocodile", "Battle Gorilla", "Champion Dragon",
-            "Void Dragon", "Golden Titan", "Spike Dragon"
+            "Haunted Lantern", "Candy Cube", "Cursed Candle", "Jack o Block", "Bone Block", "Coffin Crawler",
+            "Apex Overlord", "Shard Dragon", "Nova Pheonix"
         }
         
         for _, pet in ipairs(petsToAutoSell) do
