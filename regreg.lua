@@ -123,11 +123,11 @@ end
 -- 2. Background Auto-Sell Auras System
     task.spawn(function()
         local autoSellAurasByName = {
-            ["Muscle King Aura"] = true,
+            ["Muscle King"] = true,
             ["Eternal Megastrike"] = true,
             ["Entropic Blast"] = true,
             ["Grand Supernova"] = true,
-            ["Azure Tundra"] = true
+            ["Azure Tundra"] = true,
             ["Voltage Aura"] = true,
             ["Overdrive Aura"] = true,
             ["Pumpkin Aura"] = true,
