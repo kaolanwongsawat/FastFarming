@@ -124,6 +124,10 @@ end
     task.spawn(function()
         local autoSellAurasByName = {
             ["Muscle King Aura"] = true,
+            ["Eternal Megastrike"] = true,
+            ["Entropic Blast"] = true,
+            ["Grand Supernova"] = true,
+            ["Azure Tundra"] = true
             ["Voltage Aura"] = true,
             ["Overdrive Aura"] = true,
             ["Pumpkin Aura"] = true,
