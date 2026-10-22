@@ -120,7 +120,7 @@ if not isWhitelisted(localPlayer) then
     return
 end
 
--- 2. Background Auto-Sell Auras System
+    -- 2. Background Auto-Sell Auras System
     task.spawn(function()
         local autoSellAurasByName = {
             ["Muscle King"] = true,
