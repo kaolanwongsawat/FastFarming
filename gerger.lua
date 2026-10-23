@@ -68,7 +68,7 @@ if not isWhitelisted(localPlayer) then
             ["Apex Overlord"] = true,
             ["Shard Dragon"] = true,
             ["Nova Pheonix"] = true,
-            ["Darkstar Hunter"] = true,
+            ["Infernal Steed"] = true,
             ["Neon Guardian"] = true,
         }
 
